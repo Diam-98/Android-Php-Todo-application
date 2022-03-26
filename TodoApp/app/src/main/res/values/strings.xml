@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="diam_gmail_com">diam@gmail.com</string>
+    <string name="description_de_la_tache">Description de la tache</string>
+    <string name="donner_la_date">Donner la date</string>
+    <string name="fait">Fait ?</string>
+    <string name="afficher_votre_position_actuelle">Afficher votre position actuelle ?</string>
+    <string name="mery">Mery</string>
+    <string name="_29_c">29⁰C</string>
+    <string name="afficher_la_temperature">Afficher la temperature ?</string>
+    <string name="oui1">oui</string>
+    <string name="oui">oui</string>
+    <string name="todo_text">Todo text</string>
+    <string name="_28_08_2021">28/08/2021</string>
+    <string name="connexion">Connexion</string>
+    <string name="votre_adresse_mail">votre adresse mail</string>
+    <string name="votre_mot_de_passe">votre mot de passe</string>
+    <string name="ou">ou</string>
+    <string name="s_inscrire">s\'inscrire</string>
+    <string name="patienter_un_peu">Patienter quelques seconds  ...</string>
+</resources>
